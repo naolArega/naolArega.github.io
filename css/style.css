@@ -1,0 +1,16 @@
+.hello{
+  background-color: #E2E2E2;
+  padding: 10px;
+  border-style: solid;
+  border-color: #646464;
+  border-width: 1px;
+  border-radius: 15px;
+}
+.intro{
+  background-color: #E7E7E7;
+  padding: 10px;
+  border-style: solid;
+  border-color: #646464;
+  border-width: 1px;
+  border-radius: 15px;
+}
