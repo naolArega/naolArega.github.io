@@ -1,14 +1,23 @@
-.hello{
-  background-color: #E2E2E2;
+.intro{
+  background-color: #E7E7E7;
   padding: 10px;
   border-style: solid;
   border-color: #646464;
   border-width: 1px;
   border-radius: 15px;
 }
-.intro{
-  background-color: #E7E7E7;
-  padding: 10px;
+.skills{
+  display: block;
+  background-color: #C3C8FF;
+  padding: 5px;
+  border-style: solid;
+  border-color: #646464;
+  border-width: 1px;
+  border-radius: 15px;
+}
+.skill_list{
+  background-color: #F5F6FF;
+  padding: 5px;
   border-style: solid;
   border-color: #646464;
   border-width: 1px;
